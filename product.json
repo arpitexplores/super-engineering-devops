@@ -1,7 +1,7 @@
 {
   "name": "super-engineering-devops",
   "title": "Super Engineering/DevOps",
-  "description": "Engineering and DevOps delivery: architecture, build, test, deploy, and operate reliable systems.",
+  "description": "The go-to AI vibe coding skill for engineering and DevOps: architecture, full-stack implementation, CI/CD, observability, incidents, testing, and reliability.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -18,5 +18,17 @@
       "name": "Full-Stack Engineering",
       "path": "references/modules/senior-fullstack.md"
     }
+  ],
+  "keywords": [
+    "software engineering",
+    "DevOps",
+    "full-stack development",
+    "CI/CD",
+    "observability",
+    "incident response",
+    "software architecture",
+    "testing",
+    "AI vibe coding",
+    "agent skills"
   ]
 }
