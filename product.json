@@ -1,0 +1,22 @@
+{
+  "name": "super-engineering-devops",
+  "title": "Super Engineering/DevOps",
+  "description": "Engineering and DevOps delivery: architecture, build, test, deploy, and operate reliable systems.",
+  "version": "0.1.0",
+  "source_catalogue": "skills-super",
+  "skill_entrypoint": "SKILL.md",
+  "modules": [
+    {
+      "name": "DevOps & Deployment",
+      "path": "references/modules/devops-deploy.md"
+    },
+    {
+      "name": "Observability",
+      "path": "references/modules/observability-engineer.md"
+    },
+    {
+      "name": "Full-Stack Engineering",
+      "path": "references/modules/senior-fullstack.md"
+    }
+  ]
+}
