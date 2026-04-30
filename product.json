@@ -2,7 +2,7 @@
   "name": "super-engineering-devops",
   "title": "Super Engineering/DevOps",
   "description": "The go-to AI vibe coding skill for engineering and DevOps: architecture, full-stack implementation, CI/CD, observability, incidents, testing, and reliability.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
   "modules": [
